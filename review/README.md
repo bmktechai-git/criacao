@@ -1,6 +1,6 @@
 # Prévia para aprovação • Partmed Outubro Rosa
 
-O arquivo `Partmed-Outubro-Rosa-PREVIA-v3.mp4` contém o filme de revisão com as três filmagens originais, duas imagens ilustrativas, motion, legendas e a locução integral tratada.
+O arquivo `Partmed-Outubro-Rosa-PREVIA-v4.mp4` contém o filme de revisão com as três filmagens originais, duas imagens ilustrativas, motion, legendas e a locução integral tratada.
 
 - Formato de revisão: 540 × 960, 30 FPS, MP4 H.264/AAC.
 - Composição original: 1080 × 1920, 30 FPS.
@@ -20,3 +20,7 @@ Abra a composição `Partmed-Outubro-Rosa` no Codespaces para revisar a timeline
 Logo fixo sem box, com letras brancas; fita rosa à esquerda do texto branco, sem box. Parágrafos retirados, mantendo somente frases de destaque e legendas da narração.
 Cada vídeo da clínica aparece uma única vez. Cenas de motion e duas imagens ilustrativas geradas seguindo a referência visual substituem as repetições.
 Áudio com redução leve de ruído, filtros de voz e controle de nível (-18,22 LUFS / -3 dBTP medidos no WAV tratado), sem corte de falas ou mudança de velocidade. A versão original permanece no projeto.
+
+## Revisão v4 — paleta clara
+
+Branco e rosa pastel #FBE8F1 substituem os fundos e degradês azuis. Títulos e ícones usam azul #11136D e rosa #FF0A78. Legendas têm fundo rosa #FF0A78 e texto branco. Logo e selo sem boxes passam a usar azul/rosa sobre a área clara, para legibilidade. Montagem, animações, legendas, áudio tratado e valores dos pacotes preservados.

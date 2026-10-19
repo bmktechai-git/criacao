@@ -4,11 +4,11 @@ Projeto Remotion institucional e comercial. Composição 1080×1920, 30 FPS.
 
 ## Assistir à prévia com áudio
 
-[Baixar MP4 de revisão](https://github.com/bmktechai-git/criacao/raw/refs/heads/main/review/Partmed-Outubro-Rosa-PREVIA-v3.mp4) • [Tempos da locução e dos cards](review/tempos.md)
+[Baixar MP4 de revisão](https://github.com/bmktechai-git/criacao/raw/refs/heads/main/review/Partmed-Outubro-Rosa-PREVIA-v4.mp4) • [Tempos da locução e dos cards](review/tempos.md)
 
 Prévia reduzida de 94 segundos, com áudio tratado integral, legendas, imagens ilustrativas e motion. Não é a exportação final aprovada.
 
-![Resumo visual da edição](review/revisao-v3.jpg)
+![Resumo visual da edição](review/revisao-v4.jpg)
 
 ## Abrir o Remotion no navegador
 
