@@ -11,7 +11,7 @@
       "protocol": "http"
     }
   },
-  "postCreateCommand": "cd partmed-outubro-rosa && npm ci --no-audit --no-fund",
+  "postCreateCommand": "bash .devcontainer/post-create.sh",
   "postStartCommand": "bash -lc 'cd partmed-outubro-rosa && nohup npm run studio -- --port=3000 > /tmp/partmed-studio.log 2>&1 &'",
   "remoteUser": "node"
 }

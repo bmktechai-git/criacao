@@ -3,7 +3,8 @@
   "private": true,
   "scripts": {
     "studio": "remotion studio --no-open",
-    "check": "tsc --noEmit"
+    "check": "tsc --noEmit",
+    "render:final": "remotion render src/index.ts Partmed-Outubro-Rosa out/Partmed-Outubro-Rosa-FINAL.mp4 --codec=h264 --crf=16 --props='{\"preview\":false}' --browser-executable=/usr/bin/chromium --concurrency=2"
   },
   "dependencies": {
     "@fontsource/barlow-condensed": "^5.3.0",

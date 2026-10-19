@@ -40,3 +40,16 @@ npm run studio -- --port=3000
 ```
 
 Use o checkout existente; não crie worktrees para iniciar o projeto.
+
+## Exportar a versão final em alta qualidade
+
+A configuração do Codespaces instala Chromium e suas bibliotecas no Debian. Em Codespaces criados antes dessa correção, execute uma vez, no terminal:
+
+```bash
+sudo apt-get update
+sudo apt-get install -y --no-install-recommends chromium fonts-liberation
+```
+
+Na pasta partmed-outubro-rosa, execute `npm run render:final`. Esse comando usa vídeos originais, resolução integral 1080 × 1920, 30 FPS, H.264 CRF 16 e Chromium do sistema. Ao concluir, baixe out/Partmed-Outubro-Rosa-FINAL.mp4 pelo Explorer.
+
+Erro `libnspr4.so: cannot open shared object file` significa que o Chrome baixado não encontra bibliotecas do sistema. A instalação do Chromium pelo apt fornece essas dependências.
