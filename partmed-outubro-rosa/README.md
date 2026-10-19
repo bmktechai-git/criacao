@@ -12,13 +12,13 @@ Se o Studio não estiver rodando: no terminal `cd partmed-outubro-rosa && npm ru
 Escolha `Partmed-Outubro-Rosa` e pressione Play.
 A criação de um Codespace depende da disponibilidade e da cota da sua conta; não foi iniciada automaticamente.
 
-## Conteúdo da edição
+## Conteúdo da edição — revisão v3
 
-Somente três vídeos originais fornecidos pelo usuário. Vídeos com proporção de exibição vertical 9:16 e pixels anamórficos (SAR 81:256), preservados com `objectFit="contain"`, sem distorção ou recorte. As sobreposições gráficas ficam na parte inferior.
-Locução `public/Partmed_audio1.ogg` integral, 54,0265 segundos, sem aceleração, cortes ou substituição. Áudio de câmera silenciado.
-Cortes e destaques alinhados aos blocos da fala. Dissolvências de 0,45 s e selo global fixo.
-Pacotes após a locução: 10 s, 11 s, 12 s; encerramento: 7 s.
-Serviços, valores e parcelamentos mantidos exatamente como fornecidos.
+Fachada, recepção e Setor de Exames aparecem uma vez cada. Os intervalos restantes usam motion de fita, calendário e WhatsApp, além de duas imagens fotográficas ilustrativas criadas a partir da direção visual fornecida. Elas não representam as instalações da Partmed e estão identificadas como imagens ilustrativas.
+Logo fixo sem box, com azul/preto convertido para branco no derivado logo-white.svg; original preservado. Selo fixo sem box: fita rosa à esquerda e texto branco alinhado à esquerda. Há um degradê de contraste no topo, sem placas atrás dos elementos.
+Frases curtas de destaque substituem os parágrafos. A narração possui legendas sincronizadas em português. Dados em src/captions.json; instância editável no Studio em src/Narration.tsx; BasicCaptions oficial preservado em src/basic-captions.tsx.
+Locução original preservada em public/Partmed_audio1.ogg; versão tratada em public/Partmed_audio1-tratado-alinhado.wav. Tratamento leve de ruído, filtro de voz, normalização de aproximadamente -18 LUFS e pico verdadeiro de -3 dB. Latência de 25 ms do tratamento compensada; duração decodificada preservada em 54,0135 segundos. Nenhuma fala removida ou acelerada. Distorção já presente na gravação original pode não ser totalmente recuperável.
+Pacotes após a locução: 10 s, 11 s, 12 s; encerramento: 7 s. Serviços, preços e parcelamentos mantidos.
 
 ## Limitação visual a revisar
 

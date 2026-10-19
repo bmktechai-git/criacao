@@ -1,0 +1,23 @@
+{
+  "version": 3,
+  "preview": true,
+  "video_resolution": [
+    540,
+    960
+  ],
+  "fps": 30,
+  "duration_seconds": 94.033333,
+  "captions": true,
+  "audio_source": "Partmed_audio1-tratado-alinhado.wav",
+  "audio_full_narration": true,
+  "audio_alignment_correlation": 0.9999844059284662,
+  "encoded_stereo_integrated_lufs": -15.18,
+  "encoded_true_peak_db": -2.96,
+  "footage_appearances": {
+    "fachada": 1,
+    "recepcao": 1,
+    "sala_exame": 1
+  },
+  "illustrative_images": 2,
+  "commercial_values_unchanged": true
+}
