@@ -2,6 +2,12 @@
 
 Projeto Remotion institucional e comercial. Composição 1080×1920, 30 FPS.
 
+## Baixar a versão final em alta qualidade
+
+[**Baixar MP4 final — 1080 × 1920, 30 FPS**](https://github.com/bmktechai-git/criacao/raw/refs/heads/main/partmed-outubro-rosa/exports/Partmed-Outubro-Rosa-FINAL.mp4)
+
+Exportação H.264 CRF 16 da edição v4, com os vídeos originais. Se o navegador abrir a página do arquivo, use **Download raw file**. O arquivo também está na pasta `partmed-outubro-rosa/exports` para download pelo Explorer do Codespaces.
+
 ## Assistir à prévia com áudio
 
 [Baixar MP4 de revisão](https://github.com/bmktechai-git/criacao/raw/refs/heads/main/review/Partmed-Outubro-Rosa-PREVIA-v4.mp4) • [Tempos da locução e dos cards](review/tempos.md)
