@@ -1,0 +1,17 @@
+{
+  "name": "Partmed — Remotion Studio",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:1-24-bookworm",
+  "forwardPorts": [
+    3000
+  ],
+  "portsAttributes": {
+    "3000": {
+      "label": "Remotion Studio — Partmed",
+      "onAutoForward": "openBrowser",
+      "protocol": "http"
+    }
+  },
+  "postCreateCommand": "cd partmed-outubro-rosa && npm ci --no-audit --no-fund",
+  "postStartCommand": "bash -lc 'cd partmed-outubro-rosa && nohup npm run studio -- --port=3000 > /tmp/partmed-studio.log 2>&1 &'",
+  "remoteUser": "node"
+}
